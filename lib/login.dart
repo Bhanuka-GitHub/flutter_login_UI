@@ -9,7 +9,7 @@ class LoginPage extends StatelessWidget {
       color: Colors.amberAccent,
       child: Row(
         children: const [
-          Text("data")
+          Text("This is only for test")
         ],
       ),
     );
